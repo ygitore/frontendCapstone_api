@@ -1,0 +1,719 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "userName": "sofia mathew",
+      "email": "sofia2020@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": 2,
+      "userName": "nati george",
+      "email": "natigeorge@gmail.com",
+      "password": "321"
+    },
+    {
+      "id": 3,
+      "userName": "john smith",
+      "email": "johnsmith@yahoo.com",
+      "password": "2221"
+    },
+    {
+      "id": 4,
+      "userName": "didier drogba",
+      "email": "didierdrogba@gmail.com",
+      "password": "1223"
+    },
+    {
+      "id": 5,
+      "userName": "cristiano ronaldo",
+      "email": "cristianoronaldo@yahoo.com",
+      "password": "1234"
+    },
+    {
+      "id": 6,
+      "userName": "lionel messi",
+      "email": "lionelmessi@yahoo.com",
+      "password": "1134"
+    },
+    {
+      "email": "degudebebe@gmail.com",
+      "password": "123",
+      "userName": "degu  debebe",
+      "id": 7
+    },
+    {
+      "email": "thierryhenery@yahoo.com",
+      "password": "123",
+      "userName": "thierry henry",
+      "id": 8
+    },
+    {
+      "email": "justintimberlake@gmail.com",
+      "password": "123",
+      "userName": "justin timberlake",
+      "id": 9
+    }
+  ],
+  "apartments": [
+    {
+      "id": 32,
+      "userId": 8,
+      "uploadImage": "https://res.cloudinary.com/dgmlysx6a/image/upload/v1589649178/skyhouse_totzxv.jpg",
+      "apartmentName": "skyhouse nashville",
+      "city": "nashville",
+      "state": "tennessee",
+      "description": "I really love living here and it it the perfect location for me and my lifestyle. But the price is very expensive and I wish it were not as high."
+    },
+    {
+      "userId": 8,
+      "uploadImage": "https://res.cloudinary.com/dgmlysx6a/image/upload/v1589649343/505_xrqbyt.jpg",
+      "apartmentName": "505 ",
+      "city": "nashville",
+      "state": "tennessee",
+      "description": "I lived here for one year. I'll start by saying the apartments are awesome. Very spacious, LOVE the access to a garage and I like the idea of a little dog park too!",
+      "date_time": 1589649375545,
+      "id": 33
+    },
+    {
+      "id": 34,
+      "userId": 5,
+      "uploadImage": "https://res.cloudinary.com/dgmlysx6a/image/upload/v1589649679/encore_mzgmry.jpg",
+      "apartmentName": "encore apartments",
+      "city": "nashville",
+      "state": "tennessee",
+      "description": "Mix of residents and visitors(nightly rental).  Very close to all the action.  We would (and have) definitely returned. "
+    },
+    {
+      "userId": 4,
+      "uploadImage": "https://res.cloudinary.com/dgmlysx6a/image/upload/v1589650127/mud_island_ajiwxs.jpg",
+      "apartmentName": "mud island apartments",
+      "city": "memphis",
+      "state": "tennessee",
+      "description": "I'm giving it 5 stars because I mean how nice can a bowling place really be? It's an old a-- place. It's not fancy, it's not new and sparkly inside. ",
+      "date_time": 1589650162432,
+      "id": 36
+    },
+    {
+      "id": 38,
+      "userId": 6,
+      "uploadImage": "https://res.cloudinary.com/dgmlysx6a/image/upload/v1589651013/northpoint_apartments_c0oyhp.jpg",
+      "apartmentName": "north point apartments",
+      "city": "san francisco",
+      "state": "california",
+      "description": "Office staff and maintenance staff are so nice and helpful.   Landscaping is always beautiful and kept up regularly.    Residents always say hi and have a smile.  Maintenance is quick to respond but sometimes takes a few times to complete the issue."
+    },
+    {
+      "id": 39,
+      "userId": 6,
+      "uploadImage": "https://res.cloudinary.com/dgmlysx6a/image/upload/v1589651194/elliston_23_hrwnc8.jpg",
+      "apartmentName": "elliston23",
+      "city": "nashville",
+      "state": "tennessee",
+      "description": "Definitely had such a great time living here from top to bottom this is the place to live. Unfortunately I'm leaving due to my job having myself transfer to another location, "
+    },
+    {
+      "userId": 2,
+      "uploadImage": "https://res.cloudinary.com/dgmlysx6a/image/upload/v1589651569/constessa_apartments_wxixbx.jpg",
+      "apartmentName": "costessa apartments",
+      "city": "laredo ",
+      "state": "texas",
+      "description": "If running errands or a day of shopping are on your mind, La Contessa is perfectly located to help you knock out that to-do list in no time.",
+      "date_time": 1589651593793,
+      "id": 40
+    },
+    {
+      "id": 41,
+      "userId": 1,
+      "uploadImage": "https://res.cloudinary.com/dgmlysx6a/image/upload/v1589652194/element_apartment_pmjgjd.jpg",
+      "apartmentName": "element apartments",
+      "city": "nashville",
+      "state": "tennessee",
+      "description": "I would give zero stars if I could. Yet another weekend day spent trying to relax in my shoebox of an apartment that I pay inflated rent costs for and I am subject to the dist"
+    },
+    {
+      "id": 43,
+      "userId": 3,
+      "uploadImage": "https://res.cloudinary.com/dgmlysx6a/image/upload/v1589770449/1212_yh4ssl.jpg",
+      "apartmentName": "1212",
+      "city": "nashville",
+      "state": "tennessee",
+      "description": "a great place to call \"home\". The entire staff always greet you with a smile and are very helpful to our needs, and are quick to attend to any problems that arise.And parking"
+    },
+    {
+      "userId": 3,
+      "uploadImage": "https://res.cloudinary.com/dgmlysx6a/image/upload/v1589785245/octave_apartments_yfziyk.jpg",
+      "apartmentName": "octave apartments",
+      "city": "nashville",
+      "state": "tennessee",
+      "description": "My Experience has been great thus far! The only unfortunate thing is the parking situation as well as the move in process. There always seems to be some sort of vehicle jam an",
+      "date_time": 1589785278974,
+      "id": 44
+    },
+    {
+      "userId": 3,
+      "uploadImage": "https://res.cloudinary.com/dgmlysx6a/image/upload/v1589786339/cleo_apartments_q4x2q4.jpg",
+      "apartmentName": "cleo nashiville",
+      "city": "nashville",
+      "state": "tennessee",
+      "description": "The location of The Cleo East Nashville is wonderful. There are tons of restaurants and shops within walking distance and it is minutes from downtown. ",
+      "date_time": 1589786379723,
+      "id": 45
+    },
+    {
+      "userId": 3,
+      "uploadImage": "https://res.cloudinary.com/dgmlysx6a/image/upload/v1591408589/The_morris_vbd6th.jpg",
+      "apartmentName": "the morris",
+      "city": "nashville",
+      "state": "tennessee",
+      "description": "The Morris is gorgeous, inside and out! As soon as you walk in the lobby, you are greeted by the friendliest concierge in Nash, Jules! Stop by the office and say hi to the lea",
+      "date_time": 1591408726051,
+      "id": 46
+    },
+    {
+      "userId": 1,
+      "uploadImage": "https://res.cloudinary.com/dgmlysx6a/image/upload/v1591410224/CityView_ny3v2a.jpg",
+      "apartmentName": "cityview",
+      "city": "nashville",
+      "state": "tennessee",
+      "description": "My experience at The Cityview so far has been phenomenal. People in office has gone above and beyond for me since my first tour.",
+      "date_time": 1591410314706,
+      "id": 47
+    },
+    {
+      "userId": 1,
+      "uploadImage": "https://res.cloudinary.com/dgmlysx6a/image/upload/v1591410346/lazul_apartments_sonsfl.jpg",
+      "apartmentName": "lazul",
+      "city": "Tampa",
+      "state": "Florida",
+      "description": "The Morris is gorgeous, inside and out! As soon as you walk in the lobby, you are greeted by the friendliest concierge.",
+      "date_time": 1591410401900,
+      "id": 48
+    }
+  ],
+  "comments": [
+    {
+      "userId": 5,
+      "apartmentId": 40,
+      "comment": "nice apartment been here for 2 years still love it",
+      "id": 2
+    },
+    {
+      "userId": 2,
+      "apartmentId": 40,
+      "comment": "It's lovely! I am very eager for the fitness center and pool to open up now that quarantine is ending shortly. I really appreciated the gift bag inside the apartment when I moved in, it was so cute and thoughtful!",
+      "id": 3
+    },
+    {
+      "userId": 5,
+      "apartmentId": 36,
+      "comment": "The community here is so very great. They all make you feel like family here. They always try to make you feel wanted and look to trying to get you involved in every little thing that goes along I. This community.",
+      "id": 4
+    },
+    {
+      "userId": 9,
+      "apartmentId": 40,
+      "comment": "Not great! So many changes in office staff it seems like every six months if someone knew some maintenance issues can take up to 34 weeks depending on what it is they're too many forced fees that are not negotiable with your contract.  Parking is always terrible",
+      "id": 5
+    },
+    {
+      "userId": 3,
+      "apartmentId": 34,
+      "comment": "walking distance from broadway. it is very convenient",
+      "id": 7
+    },
+    {
+      "userId": 3,
+      "apartmentId": 40,
+      "comment": "I visited once but the management is so bad",
+      "id": 8
+    },
+    {
+      "userId": 3,
+      "apartmentId": 33,
+      "comment": "This is definitely my dream place ",
+      "id": 10
+    },
+    {
+      "userId": 3,
+      "apartmentId": 44,
+      "comment": "it is cool apartment actually",
+      "id": 11
+    },
+    {
+      "userId": 3,
+      "apartmentId": 32,
+      "comment": "Rental prices are the most expensive in the area.",
+      "id": 13
+    },
+    {
+      "userId": 3,
+      "apartmentId": 34,
+      "comment": "Better guest parking would be great",
+      "id": 14
+    },
+    {
+      "userId": 5,
+      "apartmentId": 32,
+      "comment": "Parking is major concern. Constant problems with gate access. Dealing with two separate entities is less than ideal. Constants elevator delays.",
+      "id": 15
+    },
+    {
+      "userId": 9,
+      "apartmentId": 32,
+      "comment": "walking distance from music row, and safe environment.",
+      "id": 16
+    },
+    {
+      "userId": 9,
+      "apartmentId": 33,
+      "comment": "The staff truly does take care of every need and makes you feel at home. The 24-concierge and the rest of the amenities are also unbeatable.",
+      "id": 17
+    },
+    {
+      "userId": 2,
+      "apartmentId": 32,
+      "comment": "I absolutely love living here! It is my favorite place I've ever lived. ",
+      "id": 18
+    },
+    {
+      "userId": 1,
+      "apartmentId": 32,
+      "comment": "Pros- great location and nice amenities Cons- terrible garage situation",
+      "id": 20
+    },
+    {
+      "userId": 1,
+      "apartmentId": 33,
+      "comment": "Very clean and staff is very friendly and helpful. Amenities are great.",
+      "id": 21
+    },
+    {
+      "userId": 8,
+      "apartmentId": 32,
+      "comment": "I love this apartment. I planned to move to this apartment but my job took to dallas texas. If i am still in nashville this would be my apartment",
+      "id": 22
+    },
+    {
+      "userId": 3,
+      "apartmentId": 32,
+      "comment": "this apartment looks good both from inside and outside",
+      "id": 23
+    },
+    {
+      "userId": 3,
+      "apartmentId": 46,
+      "comment": "Living at the Morris was both a pleasure and privilege. I had a positive experience here! If you're looking for a place with an attentive staff, welcoming community and luxurious apartment features, I strongly recommend the Morris!",
+      "id": 24
+    },
+    {
+      "userId": 1,
+      "apartmentId": 46,
+      "comment": "My experience at The Morris so far has been great! All of the staff has been incredibly helpful and friendly",
+      "id": 25
+    }
+  ],
+  "likes": [
+    {
+      "userId": 1,
+      "apartmentId": 41,
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "apartmentId": 40,
+      "id": 2
+    },
+    {
+      "userId": 5,
+      "apartmentId": 40,
+      "id": 3
+    },
+    {
+      "userId": 5,
+      "apartmentId": 36,
+      "id": 4
+    },
+    {
+      "userId": 5,
+      "apartmentId": 33,
+      "id": 5
+    },
+    {
+      "userId": 3,
+      "apartmentId": 43,
+      "id": 6
+    },
+    {
+      "userId": 3,
+      "apartmentId": 34,
+      "id": 7
+    },
+    {
+      "userId": 1,
+      "apartmentId": 32,
+      "id": 8
+    },
+    {
+      "userId": 1,
+      "apartmentId": 33,
+      "id": 9
+    },
+    {
+      "userId": 2,
+      "apartmentId": 32,
+      "id": 10
+    },
+    {
+      "userId": 6,
+      "apartmentId": 32,
+      "id": 11
+    },
+    {
+      "userId": 6,
+      "apartmentId": 33,
+      "id": 12
+    },
+    {
+      "userId": 6,
+      "apartmentId": 36,
+      "id": 13
+    },
+    {
+      "userId": 6,
+      "apartmentId": 34,
+      "id": 14
+    },
+    {
+      "userId": 6,
+      "apartmentId": 41,
+      "id": 15
+    },
+    {
+      "userId": 6,
+      "apartmentId": 43,
+      "id": 16
+    },
+    {
+      "userId": 6,
+      "apartmentId": 44,
+      "id": 17
+    },
+    {
+      "userId": 9,
+      "apartmentId": 32,
+      "id": 18
+    },
+    {
+      "userId": 9,
+      "apartmentId": 33,
+      "id": 19
+    },
+    {
+      "userId": 9,
+      "apartmentId": 36,
+      "id": 20
+    },
+    {
+      "userId": 9,
+      "apartmentId": 39,
+      "id": 21
+    },
+    {
+      "userId": 9,
+      "apartmentId": 41,
+      "id": 22
+    },
+    {
+      "userId": 9,
+      "apartmentId": 45,
+      "id": 23
+    },
+    {
+      "userId": 4,
+      "apartmentId": 32,
+      "id": 24
+    },
+    {
+      "userId": 4,
+      "apartmentId": 33,
+      "id": 25
+    },
+    {
+      "userId": 4,
+      "apartmentId": 39,
+      "id": 26
+    },
+    {
+      "userId": 5,
+      "apartmentId": 32,
+      "id": 27
+    },
+    {
+      "userId": 8,
+      "apartmentId": 32,
+      "id": 28
+    },
+    {
+      "userId": 3,
+      "apartmentId": 32,
+      "id": 29
+    },
+    {
+      "userId": 3,
+      "apartmentId": 46,
+      "id": 30
+    },
+    {
+      "userId": 1,
+      "apartmentId": 46,
+      "id": 31
+    }
+  ],
+  "rating": [
+    {
+      "apartmentId": 41,
+      "userId": 5,
+      "rating": 2,
+      "id": 1
+    },
+    {
+      "apartmentId": 41,
+      "userId": 3,
+      "rating": 5,
+      "id": 2
+    },
+    {
+      "apartmentId": 40,
+      "userId": 6,
+      "rating": 2,
+      "id": 3
+    },
+    {
+      "apartmentId": 40,
+      "userId": 5,
+      "rating": 2,
+      "id": 4
+    },
+    {
+      "apartmentId": 40,
+      "userId": 9,
+      "rating": 3,
+      "id": 5
+    },
+    {
+      "apartmentId": 33,
+      "userId": 3,
+      "rating": 4,
+      "id": 6
+    },
+    {
+      "apartmentId": 32,
+      "userId": 3,
+      "rating": 5,
+      "id": 7
+    },
+    {
+      "apartmentId": 34,
+      "userId": 3,
+      "rating": 4,
+      "id": 8
+    },
+    {
+      "apartmentId": 40,
+      "userId": 3,
+      "rating": 2,
+      "id": 9
+    },
+    {
+      "apartmentId": 32,
+      "userId": 5,
+      "rating": 2,
+      "id": 11
+    },
+    {
+      "apartmentId": 33,
+      "userId": 5,
+      "rating": 5,
+      "id": 12
+    },
+    {
+      "apartmentId": 32,
+      "userId": 9,
+      "rating": 5,
+      "id": 13
+    },
+    {
+      "apartmentId": 32,
+      "userId": 2,
+      "rating": 5,
+      "id": 14
+    },
+    {
+      "apartmentId": 33,
+      "userId": 2,
+      "rating": 5,
+      "id": 15
+    },
+    {
+      "apartmentId": 36,
+      "userId": 2,
+      "rating": 2,
+      "id": 16
+    },
+    {
+      "apartmentId": 34,
+      "userId": 2,
+      "rating": 2,
+      "id": 17
+    },
+    {
+      "apartmentId": 32,
+      "userId": 8,
+      "rating": 5,
+      "id": 18
+    },
+    {
+      "apartmentId": 36,
+      "userId": 8,
+      "rating": 2,
+      "id": 19
+    },
+    {
+      "apartmentId": 39,
+      "userId": 8,
+      "rating": 5,
+      "id": 20
+    },
+    {
+      "apartmentId": 34,
+      "userId": 8,
+      "rating": 2,
+      "id": 22
+    },
+    {
+      "apartmentId": 38,
+      "userId": 3,
+      "rating": 2,
+      "id": 23
+    },
+    {
+      "apartmentId": 36,
+      "userId": 3,
+      "rating": 2,
+      "id": 24
+    },
+    {
+      "apartmentId": 36,
+      "userId": 1,
+      "rating": 2,
+      "id": 26
+    },
+    {
+      "apartmentId": 32,
+      "userId": 1,
+      "rating": 5,
+      "id": 27
+    },
+    {
+      "apartmentId": 33,
+      "userId": 1,
+      "rating": 5,
+      "id": 28
+    },
+    {
+      "apartmentId": 44,
+      "userId": 9,
+      "rating": 3,
+      "id": 29
+    },
+    {
+      "apartmentId": 46,
+      "userId": 3,
+      "rating": 5,
+      "id": 30
+    }
+  ],
+  "favorites": [
+    {
+      "apartmentId": 40,
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "apartmentId": 36,
+      "userId": 2,
+      "id": 2
+    },
+    {
+      "apartmentId": 40,
+      "userId": 5,
+      "id": 3
+    },
+    {
+      "apartmentId": 32,
+      "userId": 9,
+      "id": 4
+    },
+    {
+      "apartmentId": 33,
+      "userId": 9,
+      "id": 5
+    },
+    {
+      "apartmentId": 34,
+      "userId": 9,
+      "id": 6
+    },
+    {
+      "apartmentId": 36,
+      "userId": 3,
+      "id": 8
+    },
+    {
+      "apartmentId": 40,
+      "userId": 3,
+      "id": 9
+    },
+    {
+      "apartmentId": 32,
+      "userId": 2,
+      "id": 10
+    },
+    {
+      "apartmentId": 32,
+      "userId": 5,
+      "id": 11
+    },
+    {
+      "apartmentId": 34,
+      "userId": 3,
+      "id": 13
+    },
+    {
+      "apartmentId": 38,
+      "userId": 3,
+      "id": 14
+    },
+    {
+      "apartmentId": 46,
+      "userId": 1,
+      "id": 15
+    },
+    {
+      "apartmentId": 32,
+      "userId": 1,
+      "id": 16
+    },
+    {
+      "apartmentId": 34,
+      "userId": 1,
+      "id": 17
+    },
+    {
+      "apartmentId": 39,
+      "userId": 1,
+      "id": 18
+    }
+  ]
+}
